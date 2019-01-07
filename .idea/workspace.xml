@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c703dc6-ef10-4453-97ec-696340fbc7a3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/node/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/config/dbpoolconfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/controller/CHLstudentController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/controller/dataController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/controller/luoController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/controller/userController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/controller/zwController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/dao/CHLuserDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/dao/dataDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/dao/luoDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/dao/userDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/dao/zwDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/10杨迪.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/11love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/1小罗伯特唐尼.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/2彼得杰克逊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/3弗兰威尔士.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/4梅西.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/5弗兰奥斑马.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/6张雨绮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/7斯嘉丽.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/8克里斯海姆斯沃斯.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/96A1774_J-1-2000x0-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/9李易峰.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ETQNV08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/Pacshot-row-Mid-top-Technical-olive-green2-180x245-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/Pacshot-row-Mid-top-Technical-olive-green2-500x0-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/cursor-zoomin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/cursor-zoomout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/da1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/da2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/da3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/etqstorebasement-2000x0-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/etqstoredetail-600x0-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/etqstorefront-2000x0-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/etqstorehead-1-1600x1600-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/etqstoreupstairs2-1600x0-c-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/fd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/gou01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ideal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/ins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/klarna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/lunbo-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/lunbo-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/lunbo-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215053676731.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215104314014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215121078009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215143219253.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215143294107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215215168646.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215244927239.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121215245062585.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216040321049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216043548626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216160432022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216284451939.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216292981687.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216314719267.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216395757165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216404182946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216432646906.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216432678374.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216432717496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216432897480.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216432899306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216432968131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121216444632724.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/2018121219292796508.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/bodyBigImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/headerBigImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg01-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg02-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg03-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg04-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg05-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg06-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg07-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg08-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg09-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/smImg10-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/newcollection/upload_1868a1312ad647ee0b251d11fef01261.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/one-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/one-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/one-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/one-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/readMore/about-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-2-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-2-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-2-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-3-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-3-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-4-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-4-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-4-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/section-4-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/Etq-Amsterdam-LB-01-Polido-Black-Back-3-2-150x150-c-bottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/Etq-Amsterdam-LB-01-Polido-Black-Front-2-2-150x150-c-bottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/Etq-Amsterdam-LB-01-Polido-Black-Polido-Black-Same-sole-Sole-5-150x150-c-bottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/Etq-Amsterdam-LB-01-Polido-Black-Side-1-2-150x150-c-bottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/Etq-Amsterdam-LB-01-Polido-Black-Top-1JPG-2-150x150-c-bottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/shopping/Etq-Amsterdam-Pacshot-Polido-Black-2-back-1-150x150-c-bottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg01 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg02 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg03 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg04 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg05 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg06 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg07 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg08 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg09 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg10 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg11 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg12 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg13 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg14 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg15 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg16 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg17 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg18 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg19 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg20 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg21 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg22 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg23 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg24 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg25 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg26 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg27 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg28 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg29 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg30 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg31 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg32 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg33 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg34 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg35 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg36 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg37 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg38 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg39 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg40 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg41 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg42 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg43 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/smImg44 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/stylistTeacher_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/stylistTeacher_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/stylistTeacher_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/tn01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/tn02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/two-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/two-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/two-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/two-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/images/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/js/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/public/js/jquery-1.11.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/routes/CHLindexRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/routes/dataRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/routes/indexRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/routes/luoindexRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node/routes/zwRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/assets/bgimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/assets/nav.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/Itable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/Member.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/add.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/chakan.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/chakan1.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/data.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/delect.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/denglu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/edit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/imformation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/luoadd/luoadd.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/luochange/luochange.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/luoindex.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/luosee/luosee.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/navigation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/order.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/zwData.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/zwEmployees.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/zwHome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/zwStore.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/static/.gitkeep" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node/package.json" />
+      <path value="$PROJECT_DIR$/vue/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="462" />
+    <option name="y" value="47" />
+    <option name="width" value="1195" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ETQ-Backstage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ETQ-Backstage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c703dc6-ef10-4453-97ec-696340fbc7a3" name="Default" comment="" />
+      <created>1546831255689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546831255689</updated>
+      <workItem from="1546831257122" duration="263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="263000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
